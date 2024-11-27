@@ -1,0 +1,9 @@
+Plan is I have divided the Course into 4 Parts 
+Part 1 : Mathematics, Bit Magic , Recursion , Arrays , Searching , Sorting , Matrix 
+Part 2 : Hashing , Strings , Linked List , Stacks , Queues , Deque
+Part 3 : Trees , BST , Heap , Tries , Segment and Binary Indexed Trees
+Part 4 : BackTracking , Dynamic Programming , Graphs , Disjoint Set
+//So I have completed almost all parts but not documented anything so 
+Starting from Part 3 -> Part 2 -> Part 1 -> Part 4 . 
+Documentation is very important here .
+
